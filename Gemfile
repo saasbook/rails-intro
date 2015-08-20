@@ -10,6 +10,7 @@ gem 'rails', '3.2.18'
 group :development, :test do
   gem 'sqlite3'
   gem 'debugger'
+  gem 'rake', '~> 10.3.1'
 end
 
 
